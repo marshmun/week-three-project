@@ -21,6 +21,12 @@
     flex: 1 1 25%;
     justify-content: center;
     padding-top: 1rem;
+    background-color: #61B34F;
+    color: white;
+}
+
+.clear:hover {
+    background-color: #82C276;
 }
 
 .display {
@@ -42,6 +48,10 @@
     padding-top: 1rem;
 }
 
+.operator:hover {
+    color: white;
+}
+
 .decimal {
     flex: 1 1 25%;
     justify-content: center;
@@ -52,4 +62,8 @@
     flex: 1 1 25%;
     justify-content: center;
     padding-top: 1rem;
+}
+
+.equal:hover {
+    background-color: #82C276;
 }
