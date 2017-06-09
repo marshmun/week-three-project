@@ -38,34 +38,39 @@
     margin-left: 12rem;
 }
 
-.number {
-    flex: 1 1 25%;
+.inputs {
+    height: 79%;
+    flex-wrap: wrap;
+    background-color: #61B34F;
+    color: white;
+}
+
+.inputs div {
     justify-content: center;
     padding-top: 1rem;
+}
+
+.number {
+    flex: 1 1 24%;
 }
 
 .operator {
-    flex: 1 1 25%;
-    justify-content: center;
+    flex: 1 1 24%;
     background-color: #82C276;
-    color: #4A7042;
-    padding-top: 1rem;
+    color: #4E7545;
 }
 
 .operator:hover {
+    background-color: #82C276;
     color: white;
 }
 
 .decimal {
-    flex: 1 1 25%;
-    justify-content: center;
-    padding-top: 1rem;
+    flex: 1 1 24%;
 }
 
 .equal {
-    flex: 1 1 25%;
-    justify-content: center;
-    padding-top: 1rem;
+    flex: 1 1 24%;
 }
 
 .equal:hover {
