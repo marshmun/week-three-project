@@ -1,0 +1,45 @@
+.mainCalc {
+    width: 24rem;
+    margin-left: 22rem;
+    height: 20rem;
+}
+
+.mainCalc div {
+    border: solid black 1px;
+    display: flex;
+}
+
+.row {
+    height: 20%;
+    background-color: #61B34F;
+}
+
+.clear {
+    flex: 1 1 25%;
+    justify-content: center;
+}
+
+.display {
+    flex: 1 1 75%;
+    justify-content: center;
+}
+
+.number {
+    flex: 1 1 25%;
+    justify-content: center;
+}
+
+.operator {
+    flex: 1 1 25%;
+    justify-content: center;
+}
+
+.decimal {
+    flex: 1 1 25%;
+    justify-content: center;
+}
+
+.equal {
+    flex: 1 1 25%;
+    justify-content: center;
+}
