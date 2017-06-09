@@ -34,6 +34,10 @@
     justify-content: center;
 }
 
+.display p {
+    margin-left: 12rem;
+}
+
 .number {
     flex: 1 1 25%;
     justify-content: center;
