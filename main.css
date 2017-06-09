@@ -3,6 +3,7 @@
     margin-left: 22rem;
     height: 26rem;
     margin-top: 10rem;
+    font-size: xx-large;
 }
 
 .mainCalc div {
@@ -19,6 +20,7 @@
 .clear {
     flex: 1 1 25%;
     justify-content: center;
+    padding-top: 1rem;
 }
 
 .display {
@@ -29,6 +31,7 @@
 .number {
     flex: 1 1 25%;
     justify-content: center;
+    padding-top: 1rem;
 }
 
 .operator {
@@ -36,14 +39,17 @@
     justify-content: center;
     background-color: #82C276;
     color: #4A7042;
+    padding-top: 1rem;
 }
 
 .decimal {
     flex: 1 1 25%;
     justify-content: center;
+    padding-top: 1rem;
 }
 
 .equal {
     flex: 1 1 25%;
     justify-content: center;
+    padding-top: 1rem;
 }
