@@ -7,7 +7,7 @@
 }
 
 .mainCalc div {
-    border: solid black 1px;
+    outline: 1px white solid;
     display: flex;
 }
 
